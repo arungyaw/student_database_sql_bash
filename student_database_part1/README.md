@@ -1,4 +1,4 @@
-# Students Database Insert Script
+# Students Database Part 1
 
 This project contains a Bash script that inserts data from `courses.csv` and `students.csv` into a PostgreSQL database named `students`.
 
