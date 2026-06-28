@@ -8,6 +8,7 @@ This project contains  two parts:
 ## Files
 
 * `students.sql` - SQL file dump for students database
+
 part_1
 
 * `insert_data.sh` - Script used to insert the data
